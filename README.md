@@ -6,4 +6,4 @@ That's easy, you just need to clone this repo and write code by yourself, don't 
 
 # Develop Plan 
 
-Commit Frist code and develop really slowly. I'm a pupil, I haven't lots of time for it.
+Commit First code and develop really slowly. I'm a pupil, I haven't lots of time for it.
